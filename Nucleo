@@ -30,7 +30,7 @@ function CrearMenu1(){
         'manage_options', // Capability
         'sp_menu', // slug
         'MostrarContenido1', // Funcion de contenido
-        'plugin_dir_url(__FILE__).admin/img/genetic-data-svgrepo-com.png',
+        ' ',//plugin_dir_url(__FILE__).admin/img/genetic-data-svgrepo-com.png
         '1'
     );
 }
